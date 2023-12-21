@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217960130176",
+    "project_id": "examen-final-1589d",
+    "storage_bucket": "examen-final-1589d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217960130176:android:e667e586c5815fb1076865",
+        "android_client_info": {
+          "package_name": "com.juan.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHo6KrLKW5cfbi8dx8ExH3iVFwakHTDng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
